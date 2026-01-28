@@ -8430,6 +8430,24 @@
       "thumbnail": "https://damsssl.llgc.org.uk/iiif/2.0/image/1123724/full/!800,800/0/default.jpg",
       "thumbnailWidth": 4168,
       "thumbnailHeight": 5884
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1127134/manifest.json",
+      "type": "Manifest",
+      "slug": "ffestiniog",
+      "parent": "https://damsssl.llgc.org.uk/iiif/collection/jth.json",
+      "canonical": "/works/ffestiniog.html",
+      "heroThumbnail": "https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/!800,800/0/default.jpg",
+      "heroThumbnailWidth": 5576,
+      "heroThumbnailHeight": 4522,
+      "heroThumbnailSrcset": "https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/!360,360/0/default.jpg 360w, https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/!640,640/0/default.jpg 640w, https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/!960,960/0/default.jpg 960w, https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/!1280,1280/0/default.jpg 1280w, https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/!1600,1600/0/default.jpg 1600w",
+      "heroThumbnailSizes": "(min-width: 1024px) 1280px, 100vw",
+      "ogImage": "https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/!1200,630/0/default.jpg",
+      "ogImageWidth": 1200,
+      "ogImageHeight": 630,
+      "thumbnail": "https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/!800,800/0/default.jpg",
+      "thumbnailWidth": 5576,
+      "thumbnailHeight": 4522
     }
   ],
   "collection": null

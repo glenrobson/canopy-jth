@@ -4236,6 +4236,15 @@
           "[Twmi Tomos] [graphic]."
         ]
       }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1127134/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Ffestiniog]"
+        ]
+      }
     }
   ]
 }

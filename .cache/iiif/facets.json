@@ -6,7 +6,7 @@
       {
         "value": "[ca. 1875]",
         "slug": "ca-1875",
-        "doc_count": 242,
+        "doc_count": 243,
         "docs": [
           0,
           1,
@@ -249,7 +249,8 @@
           460,
           464,
           465,
-          466
+          466,
+          468
         ]
       },
       {
@@ -693,6 +694,693 @@
         "doc_count": 1,
         "docs": [
           358
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Subject",
+    "slug": "subject",
+    "values": [
+      {
+        "value": "Person",
+        "slug": "person",
+        "doc_count": 75,
+        "docs": [
+          10,
+          14,
+          20,
+          26,
+          33,
+          36,
+          37,
+          38,
+          44,
+          50,
+          53,
+          65,
+          70,
+          82,
+          83,
+          84,
+          87,
+          91,
+          92,
+          106,
+          108,
+          116,
+          123,
+          130,
+          134,
+          142,
+          147,
+          149,
+          150,
+          151,
+          156,
+          163,
+          171,
+          173,
+          188,
+          189,
+          218,
+          226,
+          227,
+          252,
+          254,
+          259,
+          267,
+          276,
+          281,
+          285,
+          286,
+          289,
+          293,
+          295,
+          298,
+          305,
+          330,
+          342,
+          345,
+          348,
+          353,
+          356,
+          357,
+          368,
+          373,
+          374,
+          377,
+          388,
+          389,
+          391,
+          406,
+          412,
+          431,
+          432,
+          440,
+          441,
+          447,
+          466,
+          467
+        ]
+      },
+      {
+        "value": "cleric",
+        "slug": "cleric",
+        "doc_count": 60,
+        "docs": [
+          4,
+          15,
+          17,
+          23,
+          32,
+          34,
+          41,
+          60,
+          73,
+          76,
+          81,
+          85,
+          94,
+          104,
+          125,
+          127,
+          141,
+          145,
+          153,
+          159,
+          165,
+          169,
+          174,
+          179,
+          180,
+          190,
+          212,
+          235,
+          240,
+          268,
+          274,
+          283,
+          292,
+          302,
+          313,
+          319,
+          323,
+          324,
+          328,
+          335,
+          341,
+          346,
+          354,
+          366,
+          367,
+          369,
+          375,
+          382,
+          395,
+          402,
+          404,
+          410,
+          426,
+          435,
+          445,
+          452,
+          453,
+          457,
+          461,
+          463
+        ]
+      },
+      {
+        "value": "Place",
+        "slug": "place",
+        "doc_count": 54,
+        "docs": [
+          0,
+          2,
+          21,
+          35,
+          42,
+          46,
+          51,
+          56,
+          67,
+          71,
+          79,
+          80,
+          93,
+          103,
+          105,
+          112,
+          114,
+          132,
+          152,
+          155,
+          164,
+          175,
+          181,
+          221,
+          232,
+          246,
+          247,
+          261,
+          262,
+          263,
+          264,
+          287,
+          307,
+          314,
+          318,
+          337,
+          344,
+          350,
+          351,
+          355,
+          363,
+          380,
+          381,
+          386,
+          387,
+          397,
+          405,
+          415,
+          419,
+          429,
+          443,
+          459,
+          460,
+          462
+        ]
+      },
+      {
+        "value": "church building",
+        "slug": "church-building",
+        "doc_count": 15,
+        "docs": [
+          62,
+          143,
+          144,
+          182,
+          186,
+          214,
+          238,
+          275,
+          290,
+          301,
+          329,
+          332,
+          400,
+          446,
+          456
+        ]
+      },
+      {
+        "value": "chapel",
+        "slug": "chapel",
+        "doc_count": 12,
+        "docs": [
+          168,
+          172,
+          177,
+          184,
+          249,
+          270,
+          310,
+          327,
+          376,
+          393,
+          422,
+          427
+        ]
+      },
+      {
+        "value": "house",
+        "slug": "house",
+        "doc_count": 4,
+        "docs": [
+          207,
+          222,
+          260,
+          444
+        ]
+      },
+      {
+        "value": "locomotive",
+        "slug": "locomotive",
+        "doc_count": 3,
+        "docs": [
+          61,
+          407,
+          411
+        ]
+      },
+      {
+        "value": "William Thelwall Thomas",
+        "slug": "william-thelwall-thomas",
+        "doc_count": 3,
+        "docs": [
+          110,
+          209,
+          248
+        ]
+      },
+      {
+        "value": "castle",
+        "slug": "castle",
+        "doc_count": 2,
+        "docs": [
+          250,
+          390
+        ]
+      },
+      {
+        "value": "deacon",
+        "slug": "deacon",
+        "doc_count": 2,
+        "docs": [
+          196,
+          273
+        ]
+      },
+      {
+        "value": "Evan Herber Evans",
+        "slug": "evan-herber-evans",
+        "doc_count": 2,
+        "docs": [
+          291,
+          294
+        ]
+      },
+      {
+        "value": "family",
+        "slug": "family",
+        "doc_count": 2,
+        "docs": [
+          202,
+          442
+        ]
+      },
+      {
+        "value": "mill",
+        "slug": "mill",
+        "doc_count": 2,
+        "docs": [
+          97,
+          234
+        ]
+      },
+      {
+        "value": "monument",
+        "slug": "monument",
+        "doc_count": 2,
+        "docs": [
+          139,
+          394
+        ]
+      },
+      {
+        "value": "schoolchild",
+        "slug": "schoolchild",
+        "doc_count": 2,
+        "docs": [
+          121,
+          396
+        ]
+      },
+      {
+        "value": "academic dress",
+        "slug": "academic-dress",
+        "doc_count": 1,
+        "docs": [
+          359
+        ]
+      },
+      {
+        "value": "bishop",
+        "slug": "bishop",
+        "doc_count": 1,
+        "docs": [
+          413
+        ]
+      },
+      {
+        "value": "boxer",
+        "slug": "boxer",
+        "doc_count": 1,
+        "docs": [
+          113
+        ]
+      },
+      {
+        "value": "boy",
+        "slug": "boy",
+        "doc_count": 1,
+        "docs": [
+          300
+        ]
+      },
+      {
+        "value": "bull",
+        "slug": "bull",
+        "doc_count": 1,
+        "docs": [
+          256
+        ]
+      },
+      {
+        "value": "choir",
+        "slug": "choir",
+        "doc_count": 1,
+        "docs": [
+          358
+        ]
+      },
+      {
+        "value": "clergy",
+        "slug": "clergy",
+        "doc_count": 1,
+        "docs": [
+          129
+        ]
+      },
+      {
+        "value": "clock tower",
+        "slug": "clock-tower",
+        "doc_count": 1,
+        "docs": [
+          48
+        ]
+      },
+      {
+        "value": "clothing",
+        "slug": "clothing",
+        "doc_count": 1,
+        "docs": [
+          9
+        ]
+      },
+      {
+        "value": "cottage",
+        "slug": "cottage",
+        "doc_count": 1,
+        "docs": [
+          320
+        ]
+      },
+      {
+        "value": "dog",
+        "slug": "dog",
+        "doc_count": 1,
+        "docs": [
+          225
+        ]
+      },
+      {
+        "value": "elderly people",
+        "slug": "elderly-people",
+        "doc_count": 1,
+        "docs": [
+          11
+        ]
+      },
+      {
+        "value": "Ellis Owen Ellis",
+        "slug": "ellis-owen-ellis",
+        "doc_count": 1,
+        "docs": [
+          146
+        ]
+      },
+      {
+        "value": "fishing",
+        "slug": "fishing",
+        "doc_count": 1,
+        "docs": [
+          418
+        ]
+      },
+      {
+        "value": "girl",
+        "slug": "girl",
+        "doc_count": 1,
+        "docs": [
+          115
+        ]
+      },
+      {
+        "value": "goat",
+        "slug": "goat",
+        "doc_count": 1,
+        "docs": [
+          223
+        ]
+      },
+      {
+        "value": "Henry Brinley Richards",
+        "slug": "henry-brinley-richards",
+        "doc_count": 1,
+        "docs": [
+          167
+        ]
+      },
+      {
+        "value": "home",
+        "slug": "home",
+        "doc_count": 1,
+        "docs": [
+          74
+        ]
+      },
+      {
+        "value": "horse",
+        "slug": "horse",
+        "doc_count": 1,
+        "docs": [
+          161
+        ]
+      },
+      {
+        "value": "John Ceiriog Hughes",
+        "slug": "john-ceiriog-hughes",
+        "doc_count": 1,
+        "docs": [
+          424
+        ]
+      },
+      {
+        "value": "John Griffith",
+        "slug": "john-griffith",
+        "doc_count": 1,
+        "docs": [
+          201
+        ]
+      },
+      {
+        "value": "John Jones",
+        "slug": "john-jones",
+        "doc_count": 1,
+        "docs": [
+          118
+        ]
+      },
+      {
+        "value": "joiner",
+        "slug": "joiner",
+        "doc_count": 1,
+        "docs": [
+          109
+        ]
+      },
+      {
+        "value": "Joseph Parry",
+        "slug": "joseph-parry",
+        "doc_count": 1,
+        "docs": [
+          198
+        ]
+      },
+      {
+        "value": "letter",
+        "slug": "letter",
+        "doc_count": 1,
+        "docs": [
+          187
+        ]
+      },
+      {
+        "value": "milk deliverer",
+        "slug": "milk-deliverer",
+        "doc_count": 1,
+        "docs": [
+          136
+        ]
+      },
+      {
+        "value": "Owen Williams",
+        "slug": "owen-williams",
+        "doc_count": 1,
+        "docs": [
+          148
+        ]
+      },
+      {
+        "value": "photograph",
+        "slug": "photograph",
+        "doc_count": 1,
+        "docs": [
+          228
+        ]
+      },
+      {
+        "value": "plasterer",
+        "slug": "plasterer",
+        "doc_count": 1,
+        "docs": [
+          284
+        ]
+      },
+      {
+        "value": "Ploughing match",
+        "slug": "ploughing-match",
+        "doc_count": 1,
+        "docs": [
+          224
+        ]
+      },
+      {
+        "value": "Richard Davies",
+        "slug": "richard-davies",
+        "doc_count": 1,
+        "docs": [
+          279
+        ]
+      },
+      {
+        "value": "Richard Parry",
+        "slug": "richard-parry",
+        "doc_count": 1,
+        "docs": [
+          334
+        ]
+      },
+      {
+        "value": "Rowland Williams",
+        "slug": "rowland-williams",
+        "doc_count": 1,
+        "docs": [
+          69
+        ]
+      },
+      {
+        "value": "school",
+        "slug": "school",
+        "doc_count": 1,
+        "docs": [
+          154
+        ]
+      },
+      {
+        "value": "shop",
+        "slug": "shop",
+        "doc_count": 1,
+        "docs": [
+          325
+        ]
+      },
+      {
+        "value": "Thomas Jones",
+        "slug": "thomas-jones",
+        "doc_count": 1,
+        "docs": [
+          451
+        ]
+      },
+      {
+        "value": "tombstone",
+        "slug": "tombstone",
+        "doc_count": 1,
+        "docs": [
+          5
+        ]
+      },
+      {
+        "value": "town crier",
+        "slug": "town-crier",
+        "doc_count": 1,
+        "docs": [
+          349
+        ]
+      },
+      {
+        "value": "village",
+        "slug": "village",
+        "doc_count": 1,
+        "docs": [
+          233
+        ]
+      },
+      {
+        "value": "William James",
+        "slug": "william-james",
+        "doc_count": 1,
+        "docs": [
+          244
+        ]
+      },
+      {
+        "value": "William Rees",
+        "slug": "william-rees",
+        "doc_count": 1,
+        "docs": [
+          89
+        ]
+      },
+      {
+        "value": "William Williams",
+        "slug": "william-williams",
+        "doc_count": 1,
+        "docs": [
+          239
         ]
       }
     ]
