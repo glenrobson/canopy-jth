@@ -3,6 +3,7 @@ collection:
   - https://api.npoint.io/9ec1b84f2efa65a61a75
 manifest:
 metadata:
+  - Subject
   - Date
 featured:
   - https://damsssl.llgc.org.uk/iiif/2.0/1123779/manifest.json

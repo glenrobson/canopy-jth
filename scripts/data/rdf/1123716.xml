@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><rdf:RDF xmlns:METS="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:metsRights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:mix="http://www.loc.gov/mix/v20" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="info:lc/xmlns/premis-v2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <rdf:Description rdf:about="info:fedora/llgc-id:1123716">
+    <fedora-model:hasModel xmlns:fedora-model="info:fedora/fedora-system:def/model#" rdf:resource="info:fedora/model:image-pc-europeana"/>
+    <fedora-model:hasModel xmlns:fedora-model="info:fedora/fedora-system:def/model#" rdf:resource="info:fedora/fedora-system:FedoraObject-3.0"/>
+    <rel:isMemberOf rdf:resource="info:fedora/collection:digitisation"/>
+    <rel:isMemberOf rdf:resource="info:fedora/collection:jth"/>
+    <oai:itemID xmlns:oai="http://www.openarchives.org/OAI/2.0/">oai:llgc.org.uk:llgc-id:1123716</oai:itemID>
+    <nlw:nlw_id xmlns:nlw="http://dev.llgc.org.uk/digitisation/identifiers/">WlAbNL003361898</nlw:nlw_id>
+    <nlw:handle xmlns:nlw="http://dev.llgc.org.uk/digitisation/identifiers/">10107/1123716</nlw:handle>
+    <nlw:catalogue_old xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:nlw="http://dev.llgc.org.uk/digitisation/identifiers/">(WlAbNL)003361898</nlw:catalogue_old>
+    <nlw:catalogue xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:nlw="http://dev.llgc.org.uk/digitisation/identifiers/">99393225902419</nlw:catalogue>
+    <nlw:peoples_collection_id xmlns:nlw="http://dev.llgc.org.uk/digitisation/identifiers/">b565b05c-d83a-47f2-86a1-913e873fd28d</nlw:peoples_collection_id>
+    <nlw:original_name xmlns:nlw="http://dev.llgc.org.uk/digitisation/identifiers/">jth00947</nlw:original_name>
+  </rdf:Description>
+</rdf:RDF>
