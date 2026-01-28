@@ -1,5 +1,8 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/2/context.json"
+  ],
   "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123601/manifest.json",
   "type": "Manifest",
   "behavior": [
@@ -115,6 +118,18 @@
         ],
         "cy-GB": [
           "Digidwyd y cynnwys hwn gan Lyfrgell Genedlaethol Cymru"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Place"
         ]
       }
     }
@@ -234,5 +249,23 @@
         }
       ]
     }
-  ]
+  ],
+  "navPlace": {
+    "id": "http://example.com/feature-collection/1",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "http://example.com/feature/1",
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "-4.0209",
+            "52.219"
+          ]
+        }
+      }
+    ]
+  }
 }

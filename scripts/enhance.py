@@ -80,7 +80,7 @@ def list_and_open_manifests():
     json_files = list(manifests_dir.glob("*.json"))
     
     # Limit to first 5 files for testing
-    json_files = json_files[:5]
+    #json_files = json_files[:5]
     
     print(f"Processing {len(json_files)} JSON files in {manifests_dir}")
     print("=" * 50)
@@ -116,27 +116,24 @@ def list_and_open_manifests():
             print(f"ID: {manifest_id}")
 
             ident = manifest_id.replace("https://damsssl.llgc.org.uk/iiif/2.0/", "").replace("/manifest.json", "")
-            print(f"Identifier: {ident}")
 
             url = f"https://dams.llgc.org.uk/behaviour/llgc-id:{ident}/fedora-bdef:metadata/rels-ext"
             nlw_id = extract_nlw_id(url, ident)
-            print(f"nlw_id: {nlw_id}")
             if nlw_id in wikidata:
-                print(f"Wikidata: {wikidata[nlw_id]}")
                 if wikidata[nlw_id]["depictsLabel"] == "human":
                     subject = "Person"
-                elif wikidata[nlw_id]["depictsLabel"] in ("child","man","woman","group of humans"):
+                elif wikidata[nlw_id]["depictsLabel"] in ("child","man","woman","girl","group of humans"):
                     subject = "Person"
                 elif wikidata[nlw_id]["coordinates"]:
                     subject = "Place"
                 else:
                     subject = wikidata[nlw_id]["depictsLabel"]
 
+                print(f"Wikidata: {wikidata[nlw_id]["depictsLabel"]} - {subject}")
                 # Check subject isn't already added in the manifest
                 subject_exists = any(item.get('label', {}).get('en', ['']) == ['Subject'] for item in data.get('metadata', []))
                 if subject_exists:
                     print(f"Subject already exists in manifest {manifest_id}")
-                    continue
                 else:
                     # add a subject to the manifest metadata
                     data['metadata'].append({
@@ -173,7 +170,7 @@ def list_and_open_manifests():
 
             # save the enhanced manifest
             with open(json_file, 'w', encoding='utf-8') as f:
-                json.dump(data, f, indent=2)
+                json.dump(data, f, indent=2, ensure_ascii=False)
                 
         except json.JSONDecodeError as e:
             print(f"Error reading {json_file.name}: {e}")
