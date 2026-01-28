@@ -1,0 +1,233 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123629/manifest.json",
+  "type": "Manifest",
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Title"
+        ],
+        "cy-GB": [
+          "Teitl"
+        ]
+      },
+      "value": {
+        "none": [
+          "[Revd J Pritchard, Cynwyd]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Author"
+        ],
+        "cy-GB": [
+          "Awdur"
+        ]
+      },
+      "value": {
+        "none": [
+          "Thomas, John 1838-1905"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ],
+        "cy-GB": [
+          "Dyddiad"
+        ]
+      },
+      "value": {
+        "none": [
+          "[ca. 1875]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Physical description"
+        ],
+        "cy-GB": [
+          "Disgrifiad ffisegol"
+        ]
+      },
+      "value": {
+        "none": [
+          "1 negative : glass, wet collodion, b&w ; 11 x 16.5 cm."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Permalink"
+        ],
+        "cy-GB": [
+          "Dolen barhaol"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"http://hdl.handle.net/10107/1123629\">http://hdl.handle.net/10107/1123629</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Licence"
+        ],
+        "cy-GB": [
+          "Trwydded"
+        ]
+      },
+      "value": {
+        "en": [
+          "The National Library of Wales has created and published this digital version of the resource. It may be used for non-commercial purposes while respecting the moral rights of the creators of the digital version."
+        ],
+        "cy-GB": [
+          "Crëwyd a chyhoeddwyd y fersiwn digidol hwn o'r adnodd gan Lyfrgell Genedlaethol Cymru. Gellir defnyddio'r deunydd ynddo ond ar gyfer defnydd anfasnachol gan barchu hawliau moesol crewyr y fersiwn digidol."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Repository"
+        ],
+        "cy-GB": [
+          "Ystorfa"
+        ]
+      },
+      "value": {
+        "en": [
+          "This content has been digitised by The National Library of Wales"
+        ],
+        "cy-GB": [
+          "Digidwyd y cynnwys hwn gan Lyfrgell Genedlaethol Cymru"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "[Revd J Pritchard, Cynwyd]"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Llyfrgell Genedlaethol Cymru – The National Library of Wales"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "http://example.org/provider",
+      "type": "Agent",
+      "logo": [
+        {
+          "id": "https://damsssl.llgc.org.uk/iiif/2.0/image/logo/full/400,/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/logo",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "none": [
+          ""
+        ]
+      }
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/collection/jth.json",
+      "type": "Collection"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://damsssl.llgc.org.uk/object/llgc-id:1123629",
+      "type": "Dataset",
+      "profile": "http://www.europeana.eu/schemas/edm/",
+      "format": "application/rdf+xml"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123629/canvas/1123629.json",
+      "type": "Canvas",
+      "height": 5570,
+      "width": 3623,
+      "label": {
+        "none": [
+          "[Revd J Pritchard, Cynwyd]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123629/canvas/1123629.json/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123629/annotation/1123629.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://damsssl.llgc.org.uk/iiif/2.0/1123629/canvas/1123629.json",
+              "body": {
+                "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123629/res/1123629.jpg",
+                "type": "Image",
+                "height": 5570,
+                "width": 3623,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/1123629",
+                    "@type": "ImageService2",
+                    "profile": "level1",
+                    "height": 5570,
+                    "width": 3623,
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

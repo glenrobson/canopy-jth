@@ -1,0 +1,4241 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://damsssl.llgc.org.uk/iiif/collection/jth.json",
+  "type": "Collection",
+  "label": {
+    "none": [
+      "John Thomas Photographic collection"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Llyfrgell Genedlaethol Cymru – The National Library of Wales"
+      ]
+    }
+  },
+  "summary": {
+    "none": [
+      "The John Thomas Photographic Collection consists of over 4,000 negatives taken by the photographer in north, mid and west Wales during the period ca.1863-ca. 1899. The subjects include portraits of both notable men and women in Welsh public life during the period, as well as portraits of ordinary people taken in the places he visited as a photographer. In addition to portraits he took photographs of landscapes and cityscapes in Wales and especially of locations significant in Welsh history. All these are represented in this rich collection."
+    ]
+  },
+  "items": [
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123257/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Tankerey's house, Llangollen] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123258/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Robert Ellis (Cynddelw, 1812-75)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123259/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The gravestone of Elizabeth Morgan, Royal Oak, Llanrhystud] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123260/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The avenue leading to the church, Carno] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123261/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Davies] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123262/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The grave of Revd John Jones (Tegid, 1792-1852), Nanhyfer] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123263/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Illuminated address to Mr Griffith C Owen, Fitzclarence St] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123264/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123265/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church and village, Cynwyl Gaeo] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123266/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman in traditional dress (Beeston, Llanfyllin)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123267/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Group of men] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123268/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mr Williams, Ysbyty (Ifan?) at 89 years old] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123269/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Pritchard, Castellnewydd Emlyn (B)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123270/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Michael Jones, Y Fflint (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123271/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Elders, Y Ffor (Four Crosses)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123272/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd William Griffiths, Holyhead (Cong)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123273/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Dr Thomas Rees (1815-85)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123274/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd W Griffiths, Holyhead (Cong)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123275/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Jones family, Coed-y-foel] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123276/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Two women] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123277/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mr and Mrs Rowlands, Pennal] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123278/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Workemen's train, Ffestiniog railway] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123279/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Henry Richard memorial, Tregaron] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123280/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Calvinistic Methodist deacons, Llangernyw (1895)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123281/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Myfenydd Morgan, Llandudoch] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123282/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Houses] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123283/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Two women, one sitting and the other standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123284/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd William Roberts (Nefydd, 1813-72)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123285/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Jones, Clunderwen (B)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123286/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The tennis court, Castell Deudraeth, Penrhyndeudraeth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123287/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Royal Academy prize cartoon .. (prize) [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123288/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A young man standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123289/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd W Jones, Trawsfynydd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123290/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man standing and holding a flower] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123291/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Edward Morgan (1817-71)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123292/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A view of Cilgerran castle from the wood] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123293/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A young girl standing on a chair] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123294/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Boys, Tywyn school (1890)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123295/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman in national dress with a basket of flowers (Vaughan)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123296/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd T Roberts] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123297/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Thomas Owen, Tremadog (1867)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123298/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Hughes, Caernarfon] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123299/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A view of Llandovrey from Coed-cefn-yr-allt] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123300/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Unidentified man] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123301/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mr Roberts, Newtown Harpist] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123302/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[An old man] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123303/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Llanwddyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123304/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Thomas, Llangefni (B)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123305/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Machynlleth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123306/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Thomas Lloyd, elder Fitzclarence St chapel (CM), Liverpool] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123307/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Abergele debating society (1897)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123308/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A view of Llansanffraid Glynceiriog from Llwyn-copog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123309/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Bodedern] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123310/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[John Davies (Einion Ddu, 1819-1906)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123311/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Er cof am y Diweddar Barch J Phillips, Bangor.. [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123312/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Morris J Williams] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123313/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Llansanffraid Glan Conwy] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123314/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A young woman standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123315/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man sitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123316/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[J. Jermian Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123317/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J F Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123318/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The Princess locomotive engine, Ffestiniog railway] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123319/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llanfair-ar-y-bryn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123320/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd E Evans, Llangollen (A)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123321/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Two women] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123322/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Late Cadwaladr Owen, Dolwyddelan] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123323/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Two women] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123324/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A view of Nantglyn from above the school] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123325/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Evans, Eglwys-bach (1840-97)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123326/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Rowland Williams (Hwfa Mon, 1823-1905)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123327/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Boys, Y Fan mine school, Carno] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123328/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Llangollen] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123329/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Baschurch (Salop)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123330/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Er Coffadwriaeth Am Y Parch W Caledfryn Williams, Groeswen [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123331/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mother and Home of John Jones (Myrddin Fardd), Llanbedrog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123332/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Jones, Kirkdale (son of David Jones, Druisyn)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123333/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Rowlands (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123334/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123335/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Owen Williams (Pedrog, 1853-1932)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123336/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A view of Bethesda (Caern) from Ogwen Terrace] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123337/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Niece of John Thomas (Sion Wyn o Eifion, 1786-1859)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123338/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd. John Davies, Nercwys (1799?-1879)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123339/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Ellis Dafydd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123340/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Thomas Evans, son of Humphrey Evans] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123341/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Four generations and a dog, Y Ffôr] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123342/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd H Rees (Ap Rees) (1870)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123343/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123344/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A joiner, Llandysul (Cer)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123345/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[T J Hughes] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123346/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd William Rees (Gwilym Hiraethog, 1802-83)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123347/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd L Evans, Newport (Myn) (B)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123348/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Old people, Llanuwchllyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123349/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Evan John (Aer Cemais, Anglesey)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123350/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Rhandir-mwyn, Llanfair-ar-y-bryn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123351/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Evans, Llandudoch] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123352/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd R Williams] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123353/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A young man sitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123354/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The old mill, Llangwm] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123355/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Henry Jones Williams (Plenydd, 1844-1926) (1883)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123356/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Jones (Ioan Eifion, 1839-1909)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123357/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Y Gyffylliog school pupils] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123358/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mrs Edwards knitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123359/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church choir, Llansannan (1897)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123360/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Cae'r Blaidd, Ffestiniog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123361/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Evans, Llandudoch] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123362/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A view of Bethesda (Caern) from Cae Braich] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123363/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman wearing a hat standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123364/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[T Hughes' stores] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123365/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman in national dress (Scandrett)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123366/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Joiners, Corwen] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123367/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[William Thelwall Thomas (1865-1927) when a child] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123368/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd E B Thomas] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123369/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Building the dam, Llanwddyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123370/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A boxer] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123371/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Unidentified village] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123372/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Girls, Newcastle Emlyn school (1892)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123373/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mrs Thomas, Llwyn Onn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123374/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[William P Jones, Post Office, Penmachno] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123375/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[John Jones (Talhaiarn, 1810-69)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123376/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Rhyd-y-garnedd ferry, Tywyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123377/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Marquis of Londonderry] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123378/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Pupils, Llanybydder school (1891)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123379/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Rhys Morgan (Lleurwg, 1822-1900)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123380/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Ellis Williams (1870)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123381/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Amlwch] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123382/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Davies, Brecon] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123383/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Senedd Aberdaron (1896)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123384/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Williams, Tal-y-bont (Caerhun)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123385/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Samuel Owen, Tanygrisiau (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123386/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Wedi marw yn llefaru etto (multi-portrait, 9) [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123387/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man and a cart drawn by donkeys (Watkins), Cricieth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123388/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd T Lloyd, Abergele (a copy)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123389/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Machynlleth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123390/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Methodistiaid Calfinaidd Sir Gaerfyrddyn [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123391/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman, man and four children] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123392/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Irish setters] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123393/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The milkman, Narberth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123394/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Rhaeadr Pistyll waterfall, Llanrhaeadr-ym-Mochnant] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123395/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man sitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123396/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Memorial of Revd Benjamin Thomas (Myfyr Emlyn, 1836-93), Narberth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123397/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd R W Griffiths, Bethel] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123398/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd David Charles (1812-78)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123399/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Three women] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123400/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The interior of the church, Manafon] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123401/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Myddfai] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123402/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Hugh Jones, Llangollen (CM) (copy)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123403/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Ellis Owen Ellis (Ellis Bryn Coch) (print)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123404/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mr P M Williams] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123405/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Owen Williams (Owain Gwyrfai, 1790-1874)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123406/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mr & Mrs E Evans, Cefn Iwrch, Blaenau, Y Gyffylliog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123407/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[D Jones, father of Druisyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123408/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[An old man and a young man] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123409/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Llanfyllin fair] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123410/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd David Howell, Swansea (1797-1873) (1869)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123411/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Llandysul county school (Cer)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123412/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Ash tree, Llanfyllin] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123413/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Professor John Morris Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123414/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd. Thomas Roberts (Scorpion, 1816-87)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123415/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llanddewibrefi] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123416/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Davies, Y Bont-ddu (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123417/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Man with a dog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123418/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A horse (Owen)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123419/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The bay, Nefyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123420/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Dr Harries Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123421/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Pont-y-pant, Dolwyddelan] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123422/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd G Owen (Barrow, CM?)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123423/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd W E Jones, Anglesey] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123424/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Brinley Richards (print)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123425/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Capel Mawr (Bethesda) (CM), Amlwch] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123426/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd David Williams, Troedrhiwdalar (1779-1874)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123427/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The bridge, Llanybydder] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123428/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Dr Owen] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123429/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Calvinistic Methodist chapel, Aber-erch] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123430/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman in national dress and knitting (Worrall)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123431/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Williams, town missionary] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123432/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Stryd y Plas, Nefyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123433/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd O Jones, Y Gelli (1894)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123434/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Baptist Chapel, Rhuthun] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123435/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Er cof am y diweddar Barch John Parry (Caer) .. [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123436/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Hugh Hughes] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123437/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Griffiths, Dinas] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123438/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Cilgwyn Hall and Afon Teifi, Llandyfriog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123439/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llanfihangel-yng-Ngwynfa] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123440/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123441/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Pen-ffordd Chapel (CM), Pen-ffordd, Bletherston] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123442/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123443/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Prestatyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123444/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A letter in the hand of Ann Griffiths (1776-1805)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123445/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Ellis Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123446/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[An old woman sitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123447/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd C Roberts] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123448/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Pritchard, Amlwch (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123449/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Machynlleth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123450/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Peter (Ioan Pedr, 1833-77)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123451/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd T Roberts] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123452/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Unidentified man] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123453/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Deacons of Capel Mair (Cong), St. Clears] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123454/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llandrillo-yn-Edeirnion] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123455/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Dr Joseph Parry (Pencerdd America, 1841-1903)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123456/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd R Bonner (copy)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123457/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Hafodunos Hall, Llangernyw] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123458/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[John Griffith (Y Gohebydd, 1821-77)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123459/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Joseph Hurst family, Bridge Inn, Llangernyw] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123460/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Rowlands, St Davids (W)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123461/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The interior of the church, Tywyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123462/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Jonah Roberts, Neath] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123463/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Rhyd-y-garnedd ferry, Tywyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123464/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Plasweunydd, Rhiwbryfdir (home of S R Greaves)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123465/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Six men in country dress] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123466/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Dr William Thelwall Thomas (1865-1927) (1893)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123467/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A view of Llanrhaeadr-ym-Mochnant from Cross Foxes' field] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123468/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The bridge and mill, Aberdaron (1896)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123469/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Parchg William Hughes, Llanelli] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123470/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Nicholson] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123471/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Trefriw] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123472/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd James Rhys Kilsby Jones (1813-89)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123473/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd R Williams, Maenclochog (A)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123474/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd T Williams] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123475/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Three women, a young man and two children] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123476/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Glyn Davies, Aberdaron] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123477/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd T P Davies, Caer] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123478/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Lincoln street, Llandysul (Cer)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123479/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A large house (stereograph)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123480/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Llanrwst Poets (1876)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123481/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Ploughing match, Llandyrnog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123482/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Collie dog (Dr Williams)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123483/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Dr Evans' family, Llandysul (Cer)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123484/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Four women, a man and a dog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123485/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Copy of an original photograph of an unidentified man] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123486/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Cadi and Sioned, Llanfechell] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123487/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Er cof am y Parch R Edwards, Llanddyn .. [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123488/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Wyndham Lewis (Homo Ddu, 1837-95)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123489/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The market hall and square, Llanrhaeadr-ym-Mochnant] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123490/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A rural village] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123491/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The mill, Pumsaint] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123492/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd H Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123493/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Unidentified man] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123494/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[W Thelwall Thomas and friend, taken at Amlwch 1882] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123495/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llangernyw] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123496/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[William Williams (Creuddynfab, 1814-69)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123497/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd. O. Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123498/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Evans (I D Ffraid or Adda Jones, 1814-75)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123499/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123500/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The entrance to the National Eisteddfod 1884, Liverpool] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123501/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd William James, Manchester (1833-1905)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123502/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The railway station, Trawsfynydd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123503/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Jerusalem chapel (CM), Bethesda (Caern)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123504/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Felin-y-moch, Bontuchel (Dinb)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123505/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[William Thelwall Thomas (1865-1927) and a woman] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123506/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Trinity chapel (Cong), Llanboidy] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123507/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Ellis Wirion, Llannerch-y-medd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123508/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Jane Tom, Y Gyffylliog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123509/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman and three children] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123510/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man sitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123511/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[O Jones, Penmachno] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123512/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Harlech castle and Ivy House] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123513/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mr Lewis' bull] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123514/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Capel Galltgoed, Y Ffôr] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123515/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Rhaeadr Pistyll waterfall, Llanrhaeadr-ym-Mochnant] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123516/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A group of one woman and four children] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123517/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Morfa, Penrhyndeudraeth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123518/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Plas Meudwy ferry and Cilgerran castle] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123519/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The tailor, Bryn-du] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123520/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[On the banks of Afon Elwy, Llanfair Talhaearn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123521/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Cemais (Tfn)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123522/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd R Roberts, Llwynhendy (B)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123523/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Briwnant Evans] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123524/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Two women standing outsied a grocer's shop] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123525/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd. Rowland Williams (Hwfa Mon, 1823-1905)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123526/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Noah Morgan Jones (Cymro Gwyllt, -1894) a Cynnon] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123527/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Churchstoke Wesleyan Chapel] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123528/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Walters, Castellnewydd Emlyn (Cong)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123529/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Hughes (1827-93)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123530/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Deacons] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123531/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[(Revd Thomas Jeffrey Jones, vicar of Llanfair Caereinion?)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123532/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Pontesbury (Salop)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123533/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[John Davies, Nercwys] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123534/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man sitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123535/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd W M Lewis, Tyllwyd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123536/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Richard Davies, Llanbryn-mair (Mynyddog, 1833-77)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123537/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Jones (Vulcan, 1825-89)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123538/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Dr Hugh Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123539/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Griffiths] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123540/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Er cof am y diweddar Barch J Davies, Nantglyn .. [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123541/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Plasterer, Rhuthun] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123542/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Professor Evans [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123543/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Two young girls] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123544/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[St Clears fair (1 Novemeber 1898)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123545/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[J Hughes, Mansfield St] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123546/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[John Williams, Perth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123547/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llandysul (Cer)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123548/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Evan Herber Evans (1836-96) (1872)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123549/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd W Hughes, Llanidloes (B)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123550/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman in national dress and knitting (McEwen)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123551/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Evan Herber Evans (1836-96)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123552/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[W O Thomas, author of \"Dwywaith o amgylch y byd\"] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123553/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A view of Llanrhaeadr-ym-Mochnant from the Three Tons garden] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123554/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd William Theophilus Thomas (Gwilym Gwenffrwd, 1824-99)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123555/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[John the tailor, Llanboidy] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123556/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Train, Llansanffraid Glynceiriog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123557/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A boy and a woman] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123558/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llansawel] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123559/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Abel Jones Parry (1833-1911) (1885)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123560/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Tywyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123561/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The Bee Hotel, Abergele] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123562/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Boys, Carno school (1890)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123563/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llanrhaeadr-ym-Mochnant] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123564/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The Hall, Churchstoke] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123565/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Davies, Cardiff (A)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123566/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A young man standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123567/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Bethlehem capel (Cong), Trefor] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123568/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Sion chapel (Cong), Llanbedrog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123569/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Queen's Head Inn, Cerrigydrudion] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123570/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd David Jones (Druisyn, 1840-1902)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123571/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mary Morris, Llanymddyfri] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123572/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Wedi marw yn llefaru etto [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123573/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Snow in Llangurig] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123574/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The college, Aberystwyth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123575/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Aberllefenni quarry engine room] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123576/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J B Thomas, St Clears (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123577/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Coattage at Llandyrnog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123578/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Owen Evans, Cefncoedycymer (1808-65) (U)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123579/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Sarah Jane Rees (Cranogwen, 1839-1916)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123580/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd A Green] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123581/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Er cof am y diweddar Barch John Hughes, Pont Rhobert.. [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123582/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Joiner's shop, Colwyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123583/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Jones, Liverpool] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123584/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Dyffryn chapel (CM), Llandyrnog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123585/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd H James] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123586/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Newcastle Emlyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123587/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman in national dress knitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123588/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church and rectory, Pentrefoelas] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123589/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The interior of Llanddewi Brefi church] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123590/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Newton, Eglwys-bach (W)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123591/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd. Richard Parry (Gwalchmai, 1803-97)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123592/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd E Owen] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123593/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Samuel Jones, elder Pall Mall (son of Robert Jones, Rhoslan)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123594/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The quay, Porthmadog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123595/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J S Roberts, Hyuton, Liverpool] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123596/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd David Williams] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123597/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Rowlands family, Pennal] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123598/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd D Davies] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123599/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman wearing a shawl] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123600/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[William Thelwall Thomas (1865-1927) when a child] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123601/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Capel Gwynfil (CM) and Daniel Rowland monument, Llangeitho] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123602/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A young woman sitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123603/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd W John] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123604/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman standing] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123605/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Girl with a dog, Llansanffraid [Glynceiriog?]] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123606/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The town crier, Niwbwrch] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123607/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Beirdd Llanrwst] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123608/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Pandy, Trawsfynydd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123609/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Dr Thomas Price, Aberdar (1820-88)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123610/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman and a man] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123611/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Jones, Blaenannerch (1807-75)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123612/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The High Street, Y Bala] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123613/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Henry Roberts, Richmond Terrace] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123614/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Outside the inn, Llansawel (1891)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123615/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Corwen choir] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123616/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A youn man in academic dress] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123617/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Nathaniel Thomas, Cardiff (1818-88)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123618/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Harlech castle] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123619/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Foulkes] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123620/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[W Hughes, Ffestiniog carrier] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123621/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llanrhaeadr-ym-Mochnant] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123622/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Michael D Jones (1822-98)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123623/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Hughes, Gwyddelwern (1870)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123624/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Evan Jones (1836-1915)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123625/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Miss Powell (later Mrs Pengwern Jones)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123626/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Richardson, Caernarfon (original painting)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123627/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Lewis, Corwen] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123628/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Grave of Robert Ellis (Cynddelw), Llansanffraid Glyn Ceiriog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123629/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Pritchard, Cynwyd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123630/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man, woman and two girls] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123631/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Old woman, Prestatyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123632/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd F Jones, Abergele] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123633/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Carmel chapel (Cong), Pennal] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123634/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman and a young boy] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123635/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Ellis, Mostyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123636/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[St David's] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123637/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Porth Solfach, Bardsey] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123638/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Colwyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123639/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Zachareias E Mather (Cong)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123640/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Hugh Evans, London (Cynfaen, 1833-86)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123641/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J M Davies, Cilgerran] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123642/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The bridge and the church, Llanystumdwy] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123643/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Building the dam, Llanwddyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123644/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Afon Teifi at Llechryd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123645/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man on horseback] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123646/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A young man standing and reading a book] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123647/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Castell Deudraeth, Penrhyndeudraeth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123648/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Y Gyffylliog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123649/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man sitting] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123650/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Bethesda Chapel (Bapt), Narberth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123651/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Memorial to Robert Williams (Trebor Mai, 1830-77), Llanrwst] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123652/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[William Morgan(?), vicar of Llandderfel] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123653/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Pupils of Pennant school, Llanbryn-mair] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123654/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A south view of Montgomery] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123655/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Jerusalem chapel (CM) and Glan-ogwen church, Bethesda] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123656/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Thomas, Newport] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123657/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Nanhyfer] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123658/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Thomas Edwards, Machynlleth] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123659/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Howells] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123660/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Hay making] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123661/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Hugh Hughes, Abergele (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123662/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A group in Rhuthun castle during the eisteddfod (1868)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123663/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A young man standing and holding a book] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123664/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Plynlimon locomtive engine, Cambrian railway (1890) [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123665/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Tabor chapel (Bapt), Llithfaen which opened in 1885] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123666/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J James, Bridgend (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123667/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[(Revd William Jones, Amlwch, A?)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123668/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Taliesin engine, Ffestiniog railway] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123669/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A woman sitting a wearing a flower on her breast] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123670/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Bishop of Barmsters Island] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123671/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Sian Phillip y Mynydd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123672/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Cadi and Sioned, Llanfechell] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123673/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Benjamin Disraeli] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123674/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Evans, Eglwys-bach (1840-97)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123675/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Fishing near Llandysul (Cer)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123676/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Dolwyddelan castle] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123677/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Interior of the church, Llanfair Dyffryn Clwyd (?)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123678/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[St. Beuno's church, Clynnog] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123679/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Enlli chapel (CM), Bardsey] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123680/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Hughes, Liverpool (1827-93)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123681/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[John Ceiriog Hughes (1832-87)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123682/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Three women, a man and a boy] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123683/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd W Griffith] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123684/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Weselyan Chapel, Tre'r-ddol] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123685/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Two women in national dress drinking tea (Jones)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123686/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Aberdyfi regatta] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123687/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The interior of the church, Llanfyllin] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123688/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A group of children and young persons (a choir?)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123689/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A man and a woman in national dress (Jones)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123690/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[John Elias, Tre'r-gof] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123691/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Er cof am y diweddar Barch John Elias o Fon .. [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123692/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J Evans, Birkenhead] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123693/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The castle, Flint] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123694/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Sarah Jane Rees (Cranogwen, 1839-1916)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123695/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Henllan (Cer) bridge] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123696/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd James Rhys Kilsby Jones (1813-89)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123697/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mr Evans] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123698/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Elders of Peniel Chapel (CM), Llanbedrog (1896)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123699/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Jones family, Pentre Trewyn (1878)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123700/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Llyn Tegid with the Mount of Olives] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123701/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[A timbered house, Carno] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123702/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Griffith Parry, Aberystwyth (1827-1901) (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123703/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llannerch-y-medd] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123704/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Mr Swain] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123705/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[John Ceiriog Hughes (1867)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123706/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Hughes, Liverpool (1827-93) (1890)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123707/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd J James, Penybont] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123708/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Taliesin o Eifion] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123709/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Ellis, Mostyn] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123710/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Francis Jones] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123711/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[(Revd John Jones, curate Llanfair Dyffryn Clwyd?) (1879)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123712/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The bridge, Aberdaron] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123713/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[The church, Llansawel] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123714/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd G Lloyd Davies, Pentrefoelas] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123715/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd John Hugh Evans (Cynfaen, 1833-86)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123716/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Felin Ficer, Llandysilio] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123717/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Pont-y-glyn and Pont Gethin, Dolwyddelan] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123718/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Evan Phillips (1829-1912), Castellnewydd Emlyn (CM)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123719/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Newport (Penf)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123720/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Revd Henry Rees (1798-1869)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123721/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[David Griffith (Clwydfardd, 1800-94)] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123722/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Er cof am y diweddar Barch Js Hughes, Llundain .. [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123723/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[C Lloyd, Llanfihangel] [graphic]."
+        ]
+      }
+    },
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123724/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "[Twmi Tomos] [graphic]."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123364/manifest.json",
+  "type": "Manifest",
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Title"
+        ],
+        "cy-GB": [
+          "Teitl"
+        ]
+      },
+      "value": {
+        "none": [
+          "[T Hughes' stores]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Author"
+        ],
+        "cy-GB": [
+          "Awdur"
+        ]
+      },
+      "value": {
+        "none": [
+          "Thomas, John 1838-1905"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ],
+        "cy-GB": [
+          "Dyddiad"
+        ]
+      },
+      "value": {
+        "none": [
+          "[ca. 1885]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Physical description"
+        ],
+        "cy-GB": [
+          "Disgrifiad ffisegol"
+        ]
+      },
+      "value": {
+        "none": [
+          "1 negative : glass, dry plate, b&w ; 16.5 x 21.5 cm."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Permalink"
+        ],
+        "cy-GB": [
+          "Dolen barhaol"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"http://hdl.handle.net/10107/1123364\">http://hdl.handle.net/10107/1123364</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Licence"
+        ],
+        "cy-GB": [
+          "Trwydded"
+        ]
+      },
+      "value": {
+        "en": [
+          "The National Library of Wales has created and published this digital version of the resource. It may be used for non-commercial purposes while respecting the moral rights of the creators of the digital version."
+        ],
+        "cy-GB": [
+          "Crëwyd a chyhoeddwyd y fersiwn digidol hwn o'r adnodd gan Lyfrgell Genedlaethol Cymru. Gellir defnyddio'r deunydd ynddo ond ar gyfer defnydd anfasnachol gan barchu hawliau moesol crewyr y fersiwn digidol."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Repository"
+        ],
+        "cy-GB": [
+          "Ystorfa"
+        ]
+      },
+      "value": {
+        "en": [
+          "This content has been digitised by The National Library of Wales"
+        ],
+        "cy-GB": [
+          "Digidwyd y cynnwys hwn gan Lyfrgell Genedlaethol Cymru"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "[T Hughes' stores]"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Llyfrgell Genedlaethol Cymru – The National Library of Wales"
+      ]
+    }
+  },
+  "summary": {
+    "none": [
+      "Shows old white-washed shop with shopkeeper and other man standing outside."
+    ]
+  },
+  "provider": [
+    {
+      "id": "http://example.org/provider",
+      "type": "Agent",
+      "logo": [
+        {
+          "id": "https://damsssl.llgc.org.uk/iiif/2.0/image/logo/full/400,/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/logo",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "none": [
+          ""
+        ]
+      }
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/collection/jth.json",
+      "type": "Collection"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://damsssl.llgc.org.uk/object/llgc-id:1123364",
+      "type": "Dataset",
+      "profile": "http://www.europeana.eu/schemas/edm/",
+      "format": "application/rdf+xml"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123364/canvas/1123364.json",
+      "type": "Canvas",
+      "height": 4568,
+      "width": 6018,
+      "label": {
+        "none": [
+          "[T Hughes' stores]"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123364/canvas/1123364.json/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123364/annotation/1123364.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://damsssl.llgc.org.uk/iiif/2.0/1123364/canvas/1123364.json",
+              "body": {
+                "id": "https://damsssl.llgc.org.uk/iiif/2.0/1123364/res/1123364.jpg",
+                "type": "Image",
+                "height": 4568,
+                "width": 6018,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/1123364",
+                    "@type": "ImageService2",
+                    "profile": "level1",
+                    "height": 4568,
+                    "width": 6018,
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

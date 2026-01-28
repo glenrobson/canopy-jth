@@ -6,7 +6,7 @@ site/
 .template-build/
 
 # remove this if you would like to commit the cache
-.cache
+#.cache
 
 # ignore pnpm local store (we standardize on npm)
 .pnpm-store/
