@@ -1,86 +1,52 @@
 ---
 title: About
-description: Canopy IIIF makes easy the creation of digital projects for libraries, archives, and museums. Created by Mat Jordan and Mark Baggett.
-image: https://iiif.dc.library.northwestern.edu/iiif/3/138a94b0-175a-4152-98c7-df58661ce7d5/950,520,7100,4740/!1200,630/0/default.jpg
+description: About the John Thomas Photographic Collection
+image: https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/1024,/0/default.jpg
 referencedManifests:
-  - https://api.dc.library.northwestern.edu/api/v2/works/4bdb5a22-6c7f-498d-8e6e-e49ea9bc4778?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/c26591b2-994b-4ba3-a87e-9124419fa91b?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/d4c62d7f-f50d-4b29-85e0-5d380675bec7?as=iiif
+  - https://damsssl.llgc.org.uk/iiif/2.0/1127134/manifest.json
 canonical: https://canopy-iiif.github.io/app/about/index.html
 ---
 
-import {CanopyDiagram} from "@canopy-iiif/app/ui/server";
 
-# About
+## Who was John Thomas?
 
-Using [IIIF collections and manifests](https://iiif.io/api/presentation/3.0/#21-defined-types) as a data source, Canopy IIIF (Canopy) generates a scholarly digital projects platform that transforms provided digital collections into an accessible, discoverable research environment. Built on modern web standards and leveraging the interoperability of IIIF, Canopy creates static sites that extend existing IIIF resources while providing advanced localized search capabilities, contextual navigation, and customizable presentation layers.
+[John Thomas](http://yba.llgc.org.uk/en/s1-THOM-JOH-1838.html) was a labourer's son from Cellan, Ceredigion. In 
+1853 he moved to Liverpool to work in a draper's shop. Over a period of ten years the work had a detrimental 
+effect on his health and he was forced to find employment in the open air. Therefore, at the beginning of the 
+1860s, he became a traveller for a firm dealing in writing materials and photographs of famous people. At that
+time publishing and selling small photographs of celebrities (carte-de-visite photographs) was a very lucrative 
+business. When he realised how few of the photographs he had to sell were of Welsh celebrities he undertook to 
+change things himself.
 
-<ButtonWrapper variant="interstitial" text="Have an idea for a project?">
-  <Button href="/about/get-started" label="Get started" />
-  <Button
-    href="https://canopy-iiif.github.io/app/docs/"
-    label="Read documentation"
-    variant="secondary"
-  />
-</ButtonWrapper>
+He learnt the rudiments of photography and in 1863 he began taking photographs of the famous by inviting a number 
+of well-known preachers to sit for their portraits. The enterprise was a success and by 1867 he was confident 
+enough to establish his own photographic business, The Cambrian Gallery. He worked as a photographer for about 
+forty years, and during that time he travelled widely in north, mid and south Wales taking photographs of 
+landscapes as well as people.
 
-## Overview
 
-Picture a scenario where we have three providers with digitized items relating to a famous individual:
-
-- _30 manifests_ of manuscripts from **Collection A**;
-- _15 manifests_ of portraits from **Collection B**;
-- and _5 manifests_ of scrapbooks sourced **directly** and not part of structured collection.
-
-A team is tasked with building out a unified digital project for these items that allows users to browse their content, as well as interact with contextual essays, timelines, and maps. By using Canopy, implementers can quickly stand-up a working project with every manifest becoming its own work page, authored Markdown files providing context, and both streams feeding a shared search index before everything is written out to static HTML, CSS, and data assets. The diagram below walks through that pipeline so you can see how these raw manifests become a ready-to-host digital project.
-
-<CanopyDiagram />
-
-Comprehensive [documentation](https://canopy-iiif.github.io/app/docs/) is integrated into the application and serves as both a development guide and a demonstration of Canopy's potential for digital scholarship and humanities projects. To highlight what Canopy can do, this paragraph is authored in markdown from [a simple text file](https://github.com/canopy-iiif/template/blob/main/content/about/index.mdx?plain=1) and below is an example of an `<Image>` component rendering a IIIF image resource along with an inline annotation and caption. This same image is provided by Northwestern University Libraries as a [IIIF Manifest](https://api.dc.library.northwestern.edu/api/v2/works/4bdb5a22-6c7f-498d-8e6e-e49ea9bc4778?as=iiif) from their [Digital Collections platform](https://dc.library.northwestern.edu/items/4bdb5a22-6c7f-498d-8e6e-e49ea9bc4778) and [aggregated into this project](https://canopy-iiif.github.io/app/works/the-town-and-pass-of-boondi-in-rajpootana.html) as a static page during the Canopy build process.
-
-<Image
-  src="https://iiif.dc.library.northwestern.edu/iiif/3/138a94b0-175a-4152-98c7-df58661ce7d5"
-  isTiledImage={true}
-  height="500px"
-  alt="Painting of the The town & pass of Boondi, in Rajpootana"
-  caption="The town & pass of Boondi, in Rajpootana - Situated on a southern slope of a hill at the end of a long range, the town of Boondi was the capital of the Rajput principality of that name. The palace of the Raja is a large masonry stone building about half way up the hill, according to Grindlay, with a kind of fortification extending to the top."
-  annotations={[
-        {
-          annotation: {
-            id: "https://iiif.dc.library.northwestern.edu/iiif/3/f7409acd-e3f9-496a-b733-81f46d4ffa4f/annotation/0",
-            type: "Annotation",
-            motivation: ["tagging"],
-            body: [
-              {
-                id: "https://iiif.dc.library.northwestern.edu/iiif/3/f7409acd-e3f9-496a-b733-81f46d4ffa4f/annotation/0/body/0",
-                type: "TextualBody",
-                value: "Five individuals traveling.",
-              },
-            ],
-            target: {
-              type: "SpecificResource",
-              source: {
-                id: "https://iiif.dc.library.northwestern.edu/iiif/3/f7409acd-e3f9-496a-b733-81f46d4ffa4f/canvas/1",
-                type: "Canvas",
-              },
-              selector: {
-                type: "FragmentSelector",
-                value: "xywh=1900,4050,1500,1000",
-              },
-            },
-          },
-          targetIndex: 0,
-        }
-      ]}
-
+<Card
+  href="/works/ffestiniog.html"
+  src="https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/1024,/0/default.jpg"
+  alt="Street scene in Ffestiniog by John Thomas"
+  title="Street scene in Ffestiniog by John Thomas"
 />
 
-As authors create content using Markdown, they can reference the source material directly within the text using the `<ReferencedItems />` component below. This component dynamically generates a list of all IIIF Manifests that have been explicitly referenced within the markdown content of the page.
+## Using John Thomas' photographs in ‘Cymru’
 
-<ReferencedItems />
+When he retired from business a collection of over three thousand of his negatives was bought by 
+[Sir O M Edwards](http://yba.llgc.org.uk/en/s-EDWA-MOR-1858.html) to illustrate the magazine Cymru.
+John Thomas had worked with OM for many years by supplying him 
+with illustrations and articles for the magazine. OM paid the following tribute to him for help in 
+illustrating the magazine, "... you can well understand my joy in receiving an offer of help from 
+Mr John Thomas, in his own modest style. I knew that no-one has such a complete collection of views of Welsh 
+historic sites. Whenever he visits a particular area, he adds to his collection the picturesque, famous or 
+unusual that he finds there. His rich gallery has been made available to me to use with the warmest of 
+welcomes... It is good to know that the Cambrian Gallery contains a collection of views from nearly every 
+part of Wales, and of the characters who lived in those parts in recent years." (Translated from Welsh, 
+_Cymru_ 17 (1899), p.134)
 
-## Colophon
+John Thomas died in October 1905.
 
-Canopy was created by [Mat Jordan](https://github.com/mathewjordan) _(Northwestern University)_ and [Mark Baggett](https://github.com/markpbaggett) _(Texas A&M University)_ as a method to quickly build exhibit style digital humanities projects that extend existing digital collections using IIIF Collections and Manifests. It continues to be an active open-source initiative of [Northwestern University Libraries](https://www.library.northwestern.edu/), where it supports digital scholarship in many forms. This example site is built from the [Donald K. Adams and Lawrence D. Stewart Collection of Prints](https://dc.library.northwestern.edu/collections/94536627-cfdf-413c-852b-0cb16d986da3) and the [Indian Paintings on Mica](https://dc.library.northwestern.edu/collections/7ac5769f-a1d9-4227-a350-bf8bd8b1cddc) collection hosted by Northwestern University Libraries' [Digital Collections](https://dc.library.northwestern.edu/).
-
-Canopy uses the [IIIF Presentation API](https://iiif.io/api/presentation/3.0/) to deliver rich media from providing institutions, [Markdown as MDX](https://mdxjs.com/) for authoring contextual content and layout, [TailwindCSS](https://tailwindcss.com/) for the user interface, and a static [FlexSearch](https://github.com/nextapps-de/flexsearch) index for search. Easy aggregation and retrieval of IIIF resources is made possible by the [IIIF helpers](https://github.com/IIIF-Commons/iiif-helpers) developed by [Stephen Fraser](https://github.com/stephenwf). In addition, [Clover IIIF](https://github.com/samvera-labs/clover-iiif), developed by Northwestern University Libraries with contributions from other institutions, is integral to Canopy and provides the rendering of IIIF resources, annotations, and metadata throughout the interface.
+Today the negatives which O M Edwards bought from John Thomas form part of the photographic collection 
+of the National Library of Wales.

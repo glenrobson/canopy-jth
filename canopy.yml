@@ -2,6 +2,7 @@ title: John Thomas Collection
 collection:
   - https://api.npoint.io/9ec1b84f2efa65a61a75
 manifest:
+  - https://damsssl.llgc.org.uk/iiif/2.0/1127134/manifest.json
 metadata:
   - Subject
   - Date
