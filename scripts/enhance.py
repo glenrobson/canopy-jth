@@ -126,6 +126,8 @@ def list_and_open_manifests():
                     subject = "Person"
                 elif wikidata[nlw_id]["coordinates"]:
                     subject = "Place"
+                elif wikidata[nlw_id]["type"] == "human":
+                    subject = "Person"
                 else:
                     subject = wikidata[nlw_id]["depictsLabel"]
 
@@ -133,7 +135,11 @@ def list_and_open_manifests():
                 # Check subject isn't already added in the manifest
                 subject_exists = any(item.get('label', {}).get('en', ['']) == ['Subject'] for item in data.get('metadata', []))
                 if subject_exists:
-                    print(f"Subject already exists in manifest {manifest_id}")
+                    # update it
+                    for item in data['metadata']:
+                        if item.get('label', {}).get('en', ['']) == ['Subject']:
+                            item['value'] = {'en': [subject]}
+                            break
                 else:
                     # add a subject to the manifest metadata
                     data['metadata'].append({
