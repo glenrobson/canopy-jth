@@ -120,16 +120,26 @@ def list_and_open_manifests():
             url = f"https://dams.llgc.org.uk/behaviour/llgc-id:{ident}/fedora-bdef:metadata/rels-ext"
             nlw_id = extract_nlw_id(url, ident)
             if nlw_id in wikidata:
-                if wikidata[nlw_id]["depictsLabel"] == "human":
-                    subject = "Person"
-                elif wikidata[nlw_id]["depictsLabel"] in ("child","man","woman","girl","group of humans"):
-                    subject = "Person"
-                elif wikidata[nlw_id]["coordinates"]:
-                    subject = "Place"
+                if wikidata[nlw_id]["depictsLabel"] in ("human", "child","man","woman","girl","boy", "elderly people","group of humans", "schoolchild","family", "choir", "academic dress"):
+                    subject = "People"
+                elif wikidata[nlw_id]["depictsLabel"] in ("cleric","deacon","priest","bishop", "clergy"):
+                    subject = "Clergy"
+                elif wikidata[nlw_id]["depictsLabel"] in ("house","monument","mill","school","home","cottage","clock tower","shop","tombstone", "castle"):
+                    subject = "Buildings"
+                elif wikidata[nlw_id]["depictsLabel"] in ("bull","dog", "goat", "horse"):
+                    subject = "Animals"
+                elif wikidata[nlw_id]["depictsLabel"] in ("boxer","fishing", "joiner", "plasterer", "Ploughing match", "town crier", "milk deliverer"):
+                    subject = "Activities"
+                elif wikidata[nlw_id]["depictsLabel"] in ("locomotive"):
+                    subject = "Trains"
+                elif wikidata[nlw_id]["depictsLabel"] in ("chapel", "church building"):
+                    subject = wikidata[nlw_id]["depictsLabel"] 
+                elif wikidata[nlw_id]["coordinates"] or wikidata[nlw_id]["depictsLabel"] in ("village"):
+                    subject = "Places"
                 elif wikidata[nlw_id]["type"] == "human":
-                    subject = "Person"
+                    subject = "Famous people"
                 else:
-                    subject = wikidata[nlw_id]["depictsLabel"]
+                    subject = "Other" #wikidata[nlw_id]["depictsLabel"]
 
                 print(f"Wikidata: {wikidata[nlw_id]["depictsLabel"]} - {subject}")
                 # Check subject isn't already added in the manifest

@@ -21,8 +21,8 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.p, {
       children: "He learnt the rudiments of photography and in 1863 he began taking photographs of the famous by inviting a number\nof well-known preachers to sit for their portraits. The enterprise was a success and by 1867 he was confident\nenough to establish his own photographic business, The Cambrian Gallery. He worked as a photographer for about\nforty years, and during that time he travelled widely in north, mid and south Wales taking photographs of\nlandscapes as well as people."
     }), "\n", _jsx(Card, {
-      href: "/works/ffestiniog-by-john-thomas.html",
-      src: "https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/1024,/0/default.jpg",
+      href: "/works/ffestiniog.html",
+      src: "https://damsssl.llgc.org.uk/iiif/2.0/image/1127134/full/,1024/0/default.jpg",
       alt: "Street scene in Ffestiniog by John Thomas",
       title: "Street scene in Ffestiniog by John Thomas"
     }), "\n", _jsx(_components.h2, {
