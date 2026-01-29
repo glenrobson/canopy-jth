@@ -130,11 +130,11 @@ def list_and_open_manifests():
                     subject = "Animals"
                 elif wikidata[nlw_id]["depictsLabel"] in ("boxer","fishing", "joiner", "plasterer", "Ploughing match", "town crier", "milk deliverer"):
                     subject = "Activities"
-                elif wikidata[nlw_id]["depictsLabel"] in ("locomotive"):
+                elif wikidata[nlw_id]["depictsLabel"] == "locomotive":
                     subject = "Trains"
                 elif wikidata[nlw_id]["depictsLabel"] in ("chapel", "church building"):
                     subject = wikidata[nlw_id]["depictsLabel"] 
-                elif wikidata[nlw_id]["coordinates"] or wikidata[nlw_id]["depictsLabel"] in ("village"):
+                elif wikidata[nlw_id]["coordinates"] or wikidata[nlw_id]["depictsLabel"] == "village":
                     subject = "Places"
                 elif wikidata[nlw_id]["type"] == "human":
                     subject = "Famous people"
